@@ -8,4 +8,4 @@ Contains:
 - Generate graph with SetPixel in the console
 
 Screenshot:
-![alt text](https://raw.githubusercontent.com/Neosama/RMS---Real-Time/img.png)
+![alt text](https://raw.githubusercontent.com/Neosama/RMS---Real-Time/master/img.PNG)
